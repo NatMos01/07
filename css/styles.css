@@ -1460,7 +1460,7 @@ transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
 	background-color: var(--hero-button-active-background-color);
 }
 
-/* ==============================MODAL FORM TABLET============== */
+/* modal tablet */
 @media screen and (min-width: 768px) {
 	.modal {
 		width: 408px;
@@ -1468,7 +1468,7 @@ transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
 	}
 }
 
-/* ==============================MODAL FORM DESCTOP============== */
+/*modal desktop*/
 
 @media screen and (min-width: 1200px) {
 	.modal {
